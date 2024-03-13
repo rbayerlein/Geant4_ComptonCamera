@@ -1,0 +1,11 @@
+/gps/pos/type Point
+/gps/pos/centre -0.0 0. -0.4 cm
+/gps/particle e-
+/gps/direction 0.0 0. 1.0
+#/gps/ene/type Arb
+#/gps/hist/type arb
+#/gps/hist/file ../sr90y90spec2.txt
+#/gps/hist/file ../bi207spec.txt
+#/gps/hist/inter Lin
+/gps/ene/mono 1.5 MeV
+/OpNovice/phys/cerenkovMaxPhotons 1
